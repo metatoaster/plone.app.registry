@@ -79,4 +79,4 @@ class ControlPanelFormWrapper(layout.FormWrapper):
     panel layout.
     """
 
-    index = ViewPageTemplateFile('controlpanel_layout.pt')
+    index = ViewPageTemplateFile('templates/controlpanel_layout.pt')

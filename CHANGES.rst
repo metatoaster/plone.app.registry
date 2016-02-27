@@ -6,7 +6,17 @@ Changelog
 
 New:
 
-- *add item here*
+- be able to split your registry.xml file into multiple files in a sub-directory `registry`
+  [vangheem]
+
+- Add ability to import/export records through control panel
+  [vangheem]
+
+- Add ability to add new record through control panel
+  [vangheem]
+
+- Add ability to delete record through control panel
+  [vangheem]
 
 Fixes:
 
